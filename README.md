@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Wayne Zheng — solutions architecture and AI engineering. Research agents, evaluation tools, and useful software." width="100%">
+  <img src="assets/cats-banner.png" alt="Four cats sharing a sunny home workspace: a lynx-point Ragdoll, a blue-golden shaded cat, a black Devon Rex, and a calico Devon Rex." width="100%">
 </p>
 
 <p align="center">
   <strong>Solutions Architect · AI &amp; Full-Stack Engineering</strong><br>
-  <a href="mailto:contact@waynezheng.dev">Get in touch</a> ·
+  <a href="mailto:waynecode96@gmail.com">Get in touch</a> ·
   <a href="https://github.com/BrownieCoder?tab=repositories&amp;type=source">Explore my projects</a>
 </p>
 
-I design and build AI applications, integrations, and full-stack tools that turn complex workflows into useful software.
+I’m Wayne. I design and build AI applications, integrations, and full-stack tools that turn complex workflows into useful software.
 
 My projects span research automation, evaluation dashboards, browser tools, and full-stack applications, connecting **messy inputs, AI models, and useful workflows**.
 
@@ -25,6 +25,8 @@ I care about the parts that make these systems dependable: validated outputs, re
 
 Also building **[Agent Title Renamer](https://github.com/BrownieCoder/agent-title-renamer-skill)**: a portable skill for keeping AI conversation titles useful and consistent.
 
+Away from the keyboard, I share my home with four cats. They also supervise the keyboard.
+
 ## How I work
 
 - **Make behavior inspectable.** Small modules, documented decisions, and examples you can run locally.
@@ -37,6 +39,6 @@ Also building **[Agent Title Renamer](https://github.com/BrownieCoder/agent-titl
 
 Open to **remote opportunities** in solutions architecture, AI applications, research tooling, data automation, and full-stack development. Comfortable with asynchronous collaboration in English and Mandarin.
 
-**[contact@waynezheng.dev](mailto:contact@waynezheng.dev)**
+**[waynecode96@gmail.com](mailto:waynecode96@gmail.com)**
 
 <sub>Steady iteration: 500+ GitHub contributions in 2026 as of September 15, including private work. Public repositories here are selected examples; each documents its own scope and limitations.</sub>
