@@ -1,14 +1,16 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Wayne Zheng — AI systems and full-stack engineering. Research agents, evaluation tools, and useful software." width="100%">
+  <img src="assets/header.svg" alt="Wayne Zheng — solutions architecture and AI engineering. Research agents, evaluation tools, and useful software." width="100%">
 </p>
 
 <p align="center">
-  <strong>Python · TypeScript · AI workflows · Remote collaboration</strong><br>
-  <a href="mailto:contact@waynezheng.dev">Contact for contract projects</a> ·
+  <strong>Solutions architecture · AI systems · Full-stack development</strong><br>
+  <a href="mailto:contact@waynezheng.dev">Get in touch</a> ·
   <a href="https://github.com/BrownieCoder?tab=repositories&amp;type=source">Explore my projects</a>
 </p>
 
-I build software that connects **messy inputs, AI models, and useful workflows**. My work spans research automation, evaluation dashboards, browser tools, and full-stack applications.
+I'm a **Solutions Architect and hands-on AI engineer**. I translate business workflows into system designs, weigh build-versus-buy decisions, and build the applications and integrations that put those designs to work.
+
+My projects span research automation, evaluation dashboards, browser tools, and full-stack applications, connecting **messy inputs, AI models, and useful workflows**.
 
 I care about the parts that make these systems dependable: validated outputs, reviewable context, explicit state, and recovery when a step fails.
 
@@ -27,13 +29,13 @@ Also building **[Agent Title Renamer](https://github.com/BrownieCoder/agent-titl
 
 - **Make behavior inspectable.** Small modules, documented decisions, and examples you can run locally.
 - **Test the failure paths.** Invalid model output, stale editor state, interrupted delivery, and data boundaries deserve explicit handling.
-- **Build across the stack.** APIs and data pipelines through to the interface people use.
+- **Connect architecture to delivery.** System boundaries, integration choices, APIs, and data pipelines through to the interface people use.
 
 **Tools I reach for:** Python, FastAPI, SQLAlchemy, SQLite, TypeScript, React, Chrome extensions, Cloudflare Workers, D1, and GitHub Actions.
 
 ## Let's build something useful
 
-Open to **remote contract projects** in AI applications, research tooling, data automation, and full-stack development, including work with crypto teams. Comfortable with asynchronous collaboration in English and Mandarin.
+Open to **remote opportunities** in solutions architecture, AI applications, research tooling, data automation, and full-stack development. Comfortable with asynchronous collaboration in English and Mandarin.
 
 **[contact@waynezheng.dev](mailto:contact@waynezheng.dev)**
 
