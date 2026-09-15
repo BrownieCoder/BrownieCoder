@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cats-banner.png" alt="Four cats sharing a sunny home workspace: a lynx-point Ragdoll, a blue-golden shaded cat, a black Devon Rex, and a calico Devon Rex." width="100%">
+  <img src="assets/cats-banner-v2.png" alt="Four cats sharing a sunny developer workspace with code, system diagrams, and glasses: a lynx-point Ragdoll, a blue-golden shaded cat, a black Devon Rex, and a calico Devon Rex." width="100%">
 </p>
 
 <p align="center">
