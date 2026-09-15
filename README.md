@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <strong>Solutions architecture · AI systems · Full-stack development</strong><br>
+  <strong>Solutions Architect · AI &amp; Full-Stack Engineering</strong><br>
   <a href="mailto:contact@waynezheng.dev">Get in touch</a> ·
   <a href="https://github.com/BrownieCoder?tab=repositories&amp;type=source">Explore my projects</a>
 </p>
 
-I'm a **Senior Solutions Architect and hands-on AI engineer**. I translate business workflows into system designs, weigh build-versus-buy decisions, and build the applications and integrations that put those designs to work.
+I design and build AI applications, integrations, and full-stack tools that turn complex workflows into useful software.
 
 My projects span research automation, evaluation dashboards, browser tools, and full-stack applications, connecting **messy inputs, AI models, and useful workflows**.
 
