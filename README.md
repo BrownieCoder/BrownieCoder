@@ -25,7 +25,7 @@ I care about the parts that make these systems dependable: validated outputs, re
 
 Also building **[Agent Title Renamer](https://github.com/BrownieCoder/agent-title-renamer-skill)**: a portable skill for keeping AI conversation titles useful and consistent.
 
-Away from the keyboard, I share my home with four cats. They also supervise the keyboard.
+Away from the keyboard, I share my home with four cats. They also supervise the keyboard. (´•༝•)`
 
 ## How I work
 
