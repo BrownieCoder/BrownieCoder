@@ -14,6 +14,12 @@ My projects span research automation, evaluation dashboards, browser tools, and 
 
 I care about the parts that make these systems dependable: validated outputs, reviewable context, explicit state, and recovery when a step fails.
 
+## Open-source contributions
+
+**[Karakeep — merged contribution](https://github.com/karakeep-app/karakeep/pull/3053)**
+
+Added search filters for bookmarks with notes or highlights, including negation, smart-list support, autocomplete, documentation, and regression tests.
+
 ## Selected work
 
 | Project | What to look for | Stack |
@@ -40,5 +46,3 @@ Away from the keyboard, I share my home with four cats. They also supervise the 
 Open to **remote opportunities** in solutions architecture, AI applications, research tooling, data automation, and full-stack development. Comfortable with asynchronous collaboration in English and Mandarin.
 
 **[waynecode96@gmail.com](mailto:waynecode96@gmail.com)**
-
-<sub>Steady iteration: 500+ GitHub contributions in 2026 as of September 15, including private work. Public repositories here are selected examples; each documents its own scope and limitations.</sub>
