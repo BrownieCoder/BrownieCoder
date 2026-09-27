@@ -16,9 +16,13 @@ I care about the parts that make these systems dependable: validated outputs, re
 
 ## Open-source contributions
 
-**[Karakeep — merged contribution](https://github.com/karakeep-app/karakeep/pull/3053)**
+### [Karakeep](https://github.com/karakeep-app/karakeep) · 29k+ stars
 
-Added search filters for bookmarks with notes or highlights, including negation, smart-list support, autocomplete, documentation, and regression tests.
+Contributed to an open-source bookmarking app with AI-powered tagging and full-text search.
+
+**[Merged PR #3053 — Search by notes and highlights](https://github.com/karakeep-app/karakeep/pull/3053)**
+
+Implemented `has:notes` and `has:highlights` filters across database queries, smart lists, and search autocomplete, with documentation and regression tests.
 
 ## Selected work
 
