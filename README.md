@@ -24,6 +24,18 @@ Contributed to an open-source bookmarking app with AI-powered tagging and full-t
 
 Implemented `has:notes` and `has:highlights` filters across database queries, smart lists, and search autocomplete, with documentation and regression tests.
 
+### [SayAll](https://github.com/HD838A/remote-mic-app)
+
+Contributed to a native macOS app that turns Bluetooth voice remotes into wireless microphones and customizable controls.
+
+**[Merged PR #829: Left/right modifier-key handling](https://github.com/HD838A/remote-mic-app/pull/829)**
+
+Fixed standalone modifier-key events using Core Graphics device-side flags, preserving existing shortcut settings and adding regression tests.
+
+**[Merged PR #844: Consistent menu-bar interaction](https://github.com/HD838A/remote-mic-app/pull/844)**
+
+Unified left- and right-click behavior using AppKit’s native status menu and moved the main-window action to the first item.
+
 ## Selected work
 
 | Project | What to look for | Stack |
