@@ -24,7 +24,7 @@ Contributed to an open-source bookmarking app with AI-powered tagging and full-t
 
 Implemented `has:notes` and `has:highlights` filters across database queries, smart lists, and search autocomplete, with documentation and regression tests.
 
-### [SayAll](https://github.com/HD838A/remote-mic-app)
+### [SayAll](https://github.com/HD838A/remote-mic-app) · 2.3k+ stars
 
 Contributed to a native macOS app that turns Bluetooth voice remotes into wireless microphones and customizable controls.
 
