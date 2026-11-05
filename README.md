@@ -14,7 +14,7 @@ My projects span research automation, evaluation dashboards, browser tools, and 
 
 I care about the parts that make these systems dependable: validated outputs, reviewable context, explicit state, and recovery when a step fails.
 
-## Open-source contributions
+## Recent Open Source Contributions
 
 ### [Karakeep](https://github.com/karakeep-app/karakeep) · 29k+ stars
 
