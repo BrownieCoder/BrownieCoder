@@ -16,7 +16,7 @@ I care about the parts that make these systems dependable: validated outputs, re
 
 ## Recent Open Source Contributions
 
-### [Karakeep](https://github.com/karakeep-app/karakeep) · 29k+ stars
+### [Karakeep](https://github.com/karakeep-app/karakeep) · 30k+ stars
 
 Contributed to an open-source bookmarking app with AI-powered tagging and full-text search.
 
