@@ -36,6 +36,10 @@ Fixed standalone modifier-key events using Core Graphics device-side flags, pres
 
 Unified left- and right-click behavior using AppKit’s native status menu and moved the main-window action to the first item.
 
+**[Merged PR #888: Remote battery status in the macOS menu](https://github.com/HD838A/remote-mic-app/pull/888)**
+
+Added per-device battery readings to the native macOS status menu, removed stale entries on disconnect, and added regression tests.
+
 ## Selected work
 
 | Project | What to look for | Stack |
