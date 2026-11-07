@@ -28,7 +28,7 @@ Implemented `has:notes` and `has:highlights` filters across database queries, sm
 
 Updated successful manual summaries and their status in the same database write, with regression tests for recovery, inference errors, empty responses, and cross-user access.
 
-### [SayAll](https://github.com/HD838A/remote-mic-app) · 2.3k+ stars
+### [SayAll](https://github.com/HD838A/remote-mic-app) · 2.6k+ stars
 
 Contributed to a native macOS app that turns Bluetooth voice remotes into wireless microphones and customizable controls.
 
