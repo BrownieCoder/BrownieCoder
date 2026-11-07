@@ -24,6 +24,10 @@ Contributed to an open-source bookmarking app with AI-powered tagging and full-t
 
 Implemented `has:notes` and `has:highlights` filters across database queries, smart lists, and search autocomplete, with documentation and regression tests.
 
+**[Merged PR #3299 — Consistent manual summary status](https://github.com/karakeep-app/karakeep/pull/3299)**
+
+Updated successful manual summaries and their status in the same database write, with regression tests for recovery, inference errors, empty responses, and cross-user access.
+
 ### [SayAll](https://github.com/HD838A/remote-mic-app) · 2.3k+ stars
 
 Contributed to a native macOS app that turns Bluetooth voice remotes into wireless microphones and customizable controls.
