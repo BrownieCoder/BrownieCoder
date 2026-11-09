@@ -32,17 +32,9 @@ Updated successful manual summaries and their status in the same database write,
 
 Contributed to a native macOS app that turns Bluetooth voice remotes into wireless microphones and customizable controls.
 
-**[Merged PR #829: Left/right modifier-key handling](https://github.com/HD838A/remote-mic-app/pull/829)**
+**Merged PRs: [#829](https://github.com/HD838A/remote-mic-app/pull/829) · [#844](https://github.com/HD838A/remote-mic-app/pull/844) · [#888](https://github.com/HD838A/remote-mic-app/pull/888) · [#913](https://github.com/HD838A/remote-mic-app/pull/913)**
 
-Fixed standalone modifier-key events using Core Graphics device-side flags, preserving existing shortcut settings and adding regression tests.
-
-**[Merged PR #844: Consistent menu-bar interaction](https://github.com/HD838A/remote-mic-app/pull/844)**
-
-Unified left- and right-click behavior using AppKit’s native status menu and moved the main-window action to the first item.
-
-**[Merged PR #888: Remote battery status in the macOS menu](https://github.com/HD838A/remote-mic-app/pull/888)**
-
-Added per-device battery readings to the native macOS status menu, removed stale entries on disconnect, and added regression tests.
+Fixed left/right modifier-key handling, unified native menu-bar interactions, added per-device remote battery status, and made focus-option cards fully clickable. Included regression tests and manual macOS validation.
 
 ## Selected work
 
