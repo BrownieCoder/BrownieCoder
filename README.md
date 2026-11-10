@@ -16,6 +16,16 @@ I care about the parts that make these systems dependable: validated outputs, re
 
 ## Recent Open Source Contributions
 
+### [Docling](https://github.com/docling-project/docling) · 70k+ stars
+
+Contributed to a document-processing toolkit for generative AI, with integrations across LangChain, LlamaIndex, and the broader AI ecosystem.
+
+**[Merged PR #5228 — Prevent silent content loss in HTML email ingestion](https://github.com/docling-project/docling/pull/5228)**
+
+Fixed silent loss of HTML email footers by preserving **content-layer semantics end to end**, from the HTML backend through the email document model and JSON export. Footer content is also available through opt-in Markdown export, while default body-only output and plain-text precedence remain unchanged.
+
+Added **end-to-end regression coverage** for HTML-only and multipart messages, blank plain-text alternatives, footer-only content, escaping, and consistency across the document model and export formats.
+
 ### [Karakeep](https://github.com/karakeep-app/karakeep) · 30k+ stars
 
 Contributed to an open-source bookmarking app with AI-powered tagging and full-text search.
