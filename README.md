@@ -22,9 +22,9 @@ Contributed to a document-processing toolkit for generative AI, with integration
 
 **[Merged PR #5228 — Prevent silent content loss in HTML email ingestion](https://github.com/docling-project/docling/pull/5228)**
 
-Fixed silent loss of HTML email footers by preserving **content-layer semantics end to end**, from the HTML backend through the email document model and JSON export. Footer content is also available through opt-in Markdown export, while default body-only output and plain-text precedence remain unchanged.
+Fixed silent loss of HTML email footers by preserving content-layer semantics end to end, from the HTML backend through the email document model and JSON export. Footer content is also available through opt-in Markdown export, while default body-only output and plain-text precedence remain unchanged.
 
-Added **end-to-end regression coverage** for HTML-only and multipart messages, blank plain-text alternatives, footer-only content, escaping, and consistency across the document model and export formats.
+Added end-to-end regression coverage for HTML-only and multipart messages, blank plain-text alternatives, footer-only content, escaping, and consistency across the document model and export formats.
 
 ### [Karakeep](https://github.com/karakeep-app/karakeep) · 30k+ stars
 
