@@ -16,7 +16,7 @@ I care about the parts that make these systems dependable: validated outputs, re
 
 ## Recent Open Source Contributions
 
-### [Rea](https://github.com/morluto/rea) · 450k+ stars
+### [Rea](https://github.com/morluto/rea) · 458K+ stars
 
 **[Original PR #7465](https://github.com/morluto/rea/pull/7465) · [Merged upstream via #10406](https://github.com/morluto/rea/pull/10406)**
 
