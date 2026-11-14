@@ -8,12 +8,6 @@
   <a href="https://github.com/BrownieCoder?tab=repositories&amp;type=source">Explore my projects</a>
 </p>
 
-I’m Wayne. I design and build AI applications, integrations, and full-stack tools that turn complex workflows into useful software.
-
-My projects span research automation, evaluation dashboards, browser tools, and full-stack applications, connecting **messy inputs, AI models, and useful workflows**.
-
-I care about the parts that make these systems dependable: validated outputs, reviewable context, explicit state, and recovery when a step fails.
-
 ## Recent Open Source Contributions
 
 ### [Rea](https://github.com/morluto/rea) · 458K+ stars
