@@ -16,6 +16,12 @@ I care about the parts that make these systems dependable: validated outputs, re
 
 ## Recent Open Source Contributions
 
+### [Rea](https://github.com/morluto/rea) · 450k+ stars
+
+**[Original PR #7465](https://github.com/morluto/rea/pull/7465) · [Merged upstream via #10406](https://github.com/morluto/rea/pull/10406)**
+
+Fixed misleading MCP Doctor diagnostics when browser or native tool scopes skip the identity probe. The diagnostic now explains why identity was not observed without changing the health check or exit status. Added regression tests for both scopes. The fix landed on `main` through #10406 with authorship preserved.
+
 ### [Docling](https://github.com/docling-project/docling) · 70k+ stars
 
 Contributed to a document-processing toolkit for generative AI, with integrations across LangChain, LlamaIndex, and the broader AI ecosystem.
